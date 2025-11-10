@@ -1,0 +1,17 @@
+node_modules
+.git
+.env
+.env.example
+.env.local
+.env.testing
+docker/mailserver/mail-data
+docker/mailserver/mail-state
+docker/mailserver/mail-logs
+storage/logs
+storage/framework/cache
+storage/framework/sessions
+storage/framework/views
+bootstrap/cache
+vendor
+.phpunit.cache
+.DS_Store
